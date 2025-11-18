@@ -2,6 +2,15 @@
 
 ## About
 
+##### I just forked this for my own attempt to get something working to access the Autoview console web-apps that haven't been updated since 2017. I do not recommend attempting to use this at all!!! #######
+
+
+
+
+
+
+############################# ORIGINAL REPO TEXT #############################
+
 This docker image is based on [zheng1/docker-avocent](https://github.com/zheng1/docker-avocent) and the original [DomiStyle/docker-idrac6](https://github.com/zheng1/docker-avocent) repo for dockerizing Dell idrac KVMs.
 
 This fork has been modified to work for Avocent KVM 4.1.1.54 that ships with **Avocent MergePoint EMS AST2300** on [Gigabyte GA-6PXSV4](https://www.gigabyte.com/Enterprise/Server-Motherboard/GA-6PXSV4-rev-10#Support-Firmware) motherboards, but will probably work for any mobo in that series.
